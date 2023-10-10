@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Entered two numbers for diapasone: ");
+Console.WriteLine("Entered two numbers for diapasone: ");
 int digit1 = int.Parse(Console.ReadLine());
 int digit2 = int.Parse(Console.ReadLine());
 
